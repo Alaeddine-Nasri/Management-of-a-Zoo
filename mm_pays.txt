@@ -1,0 +1,6 @@
+L3 lion mamifere carnivore afrique E03 20022013 20022019 202
+L3 lion mammifere carnivore afrique E01 20022013 20022019 241
+L3 lion mamifere carnivore afrique E03 20022013 20022019 202
+t1 TOGRE mammifere carnivore angola E3 20022013 20022014 241
+t1 TOGRE mammifere carnivore angola E3 20022013 20022014 241
+t1 TOGRE mammifere carnivore angola E3 20022013 20022014 24

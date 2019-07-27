@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555191386 source:c:\users\dell\downloads\ammali_mouna_nasri_alaadine_groupe07_tp1\ammali_mouna_nasri_alaadine_groupe07_tp1\biblio_tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIBLIO_TP.h"
+	<windows.h>
+
+1555190970 c:\users\dell\downloads\ammali_mouna_nasri_alaadine_groupe07_tp1\ammali_mouna_nasri_alaadine_groupe07_tp1\biblio_tp.h
+
+1555190660 source:c:\users\dell\downloads\ammali_mouna_nasri_alaadine_groupe07_tp1\ammali_mouna_nasri_alaadine_groupe07_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BIBLIO_TP.h"
+

@@ -1,0 +1,17 @@
+crocodile
+tigre
+serpent
+requin
+elephant
+singe
+dauphin
+lion
+aligatore
+guepard
+hippopotame
+loups
+sepent
+panda
+gorille
+girafe
+gorilla
